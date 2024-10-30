@@ -5762,7 +5762,7 @@ textarea.form-control {
   height: 70px;
   display: inline-block;
   z-index: -1;
-  background-image: url(../images/testimonials/quote-icon.png);
+  /* background-image: url(../images/testimonials/quote-icon.png); */
 }
 
 .testimonial-2 .testimonial-item {
