@@ -1505,23 +1505,23 @@ h6 {
 
 /* Button Primary */
 .btn__primary {
-  background-color: #ff5e14;
+  background-color: #cbd500;
   color: #ffffff;
-  border: 2px solid #ff5e14;
+  border: 2px solid #cbd500;
 }
 
 .btn__primary:active,
 .btn__primary:focus,
 .btn__primary:hover {
   background-color: transparent;
-  color: #ff5e14;
+  color: #cbd500;
 }
 
 .btn__primary.btn__hover2:active,
 .btn__primary.btn__hover2:focus,
 .btn__primary.btn__hover2:hover {
   background-color: #ffffff;
-  color: #ff5e14;
+  color: #cbd500;
   border-color: #ffffff;
 }
 
@@ -1614,7 +1614,7 @@ h6 {
 .btn__link.btn__secondary:active,
 .btn__link.btn__secondary:focus,
 .btn__link.btn__secondary:hover {
-  color: #ff5e14;
+  color: #cbd500;
   background-color: transparent;
   border-color: transparent;
 }
@@ -2110,7 +2110,7 @@ textarea.form-control {
 }
 
 .list-items-layout2 li:before {
-  color: #ff5e14;
+  color: #cbd500;
 }
 
 /*-----------------------
@@ -4557,7 +4557,7 @@ textarea.form-control {
 
 .slider-1 .thumbs-dots .owl-thumb-item.active {
   transform: scaleY(1.1);
-  background-color: #ff5e14;
+  background-color: #cbd500;
 }
 
 .slider-3 .slide__content {
@@ -7066,7 +7066,7 @@ textarea.form-control {
 }
 
 .service-item .service__icon i {
-  color: #ff5e14;
+  color: #cbd500;
   line-height: 1;
 }
 
@@ -7546,7 +7546,7 @@ textarea.form-control {
 }
 
 .about-2 .btn__underlined:hover:after {
-  background-color: #ff5e14;
+  background-color: #cbd500;
 }
 
 .about-2 .counter-item-wrapper {
@@ -7585,7 +7585,7 @@ textarea.form-control {
   z-index: 1;
   opacity: 0;
   border-radius: 5px;
-  background: #ff5e14;
+  background: #cbd500;
   animation-delay: 0.4s;
   animation: slideOutBackground 1.7s ease;
 }
