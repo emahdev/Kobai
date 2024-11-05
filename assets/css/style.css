@@ -1092,7 +1092,7 @@ hr {
   z-index: -1;
   /* background-color: rgba(27, 26, 26, 0.15); */
   /* background-color: hsl(220deg 72% 33% / 60%); */
-  background: rgb(108 117 125 / 60%);
+  background: rgb(116 116 116 / 30%);
 }
 
 .bg-overlay-2:before {
