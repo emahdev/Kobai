@@ -1091,7 +1091,8 @@ hr {
   height: 100%;
   z-index: -1;
   /* background-color: rgba(27, 26, 26, 0.15); */
-  background-color: hsl(220deg 72% 33% / 60%);
+  /* background-color: hsl(220deg 72% 33% / 60%); */
+  background: rgb(108 117 125 / 60%);
 }
 
 .bg-overlay-2:before {
