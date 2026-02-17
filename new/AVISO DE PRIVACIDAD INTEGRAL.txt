@@ -1,0 +1,45 @@
+### TEXTO PARA AVISO INTEGRAL:
+
+
+AVISO DE PRIVACIDAD INTEGRAL
+[NOMBRE_EMPRESA], en cumplimiento con lo dispuesto por la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, hace de su conocimiento lo siguiente:
+I. Identidad del Responsable
+[NOMBRE_EMPRESA] es responsable del tratamiento, uso, protección y resguardo de los datos personales que usted nos proporciona.
+II. Datos personales que se recaban
+Los datos personales que recabamos a través de nuestro sitio web, de manera directa mediante el formulario de contacto, son:
+
+Nombre completo
+Correo electrónico
+Número telefónico (opcional en algunos casos)
+Mensaje o comentarios
+Servicio de interés seleccionado
+
+III. Finalidades del tratamiento de los datos
+Los datos personales recabados serán utilizados para las siguientes finalidades:
+Finalidades primarias:
+
+Atender, dar seguimiento y responder a su solicitud de información, contacto o cotización.
+Brindar atención personalizada conforme al servicio de interés que usted indique.
+Establecer comunicación con usted para dar cumplimiento a su solicitud.
+
+Finalidades secundarias:
+
+Enviarle información promocional, actualizaciones de nuestros servicios o noticias relacionadas, en caso de que usted así lo consienta.
+
+En caso de que no desee que sus datos personales sean tratados para fines secundarios, puede manifestarlo desde este momento mediante solicitud expresa al correo electrónico indicado en el apartado VII de este aviso.
+IV. Transferencias de datos
+Le informamos que no realizamos transferencias de sus datos personales a terceros sin su consentimiento, salvo aquellas que sean necesarias para cumplir con obligaciones legales o contractuales.
+V. Uso de tecnologías de rastreo
+Nuestro sitio web puede utilizar cookies, web beacons u otras tecnologías similares para mejorar la experiencia del usuario. Usted puede configurar su navegador para desactivar estas tecnologías. Para más información sobre el uso de cookies, puede consultar nuestra política específica en el sitio web.
+VI. Derechos ARCO y revocación del consentimiento
+Usted tiene derecho a acceder, rectificar, cancelar u oponerse al tratamiento de sus datos personales (derechos ARCO), así como revocar en cualquier momento el consentimiento que nos haya otorgado para el tratamiento de los mismos.
+Para ejercer estos derechos, deberá enviar una solicitud al correo electrónico: [CORREO_ARCO], indicando:
+
+Nombre completo
+Relación con la empresa
+Derecho que desea ejercer
+Descripción clara de los datos sobre los cuales desea ejercer su derecho
+Copia de su identificación oficial
+
+VII. Cambios al aviso de privacidad
+Este Aviso de Privacidad puede ser modificado en cualquier momento para cumplir con actualizaciones legislativas, políticas internas o nuevos requerimientos. Las modificaciones estarán disponibles a través de nuestro sitio web en la dirección: [URL_SITIO]/aviso-de-privacidad

@@ -1,0 +1,23 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/servicios", "destination": "/#servicios" },
+    { "source": "/nosotros", "destination": "/#nosotros" },
+    { "source": "/contacto", "destination": "/#contacto" },
+    { "source": "/aviso-de-privacidad", "destination": "/aviso-de-privacidad/index.html" },
+    { "source": "/gracias", "destination": "/gracias/index.html" },
+    { "source": "/error", "destination": "/error/index.html" }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "max-age=0, no-cache, no-store, must-revalidate" },
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "X-Frame-Options", "value": "DENY" },
+        { "key": "X-XSS-Protection", "value": "1; mode=block" }
+      ]
+    }
+  ]
+}

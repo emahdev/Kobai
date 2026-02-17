@@ -16,27 +16,16 @@
   <!-- og:meta -->
   <meta property="og:title" content="KOBAI | LOGÍSTICA, COMPRAS Y ADQUISICIONES">
   <meta property="og:description" content="KOBAI es una empresa especializada en soluciones de logística, compras y adquisiciones para medianas y grandes empresas. Optimizamos la cadena de suministro para reducir costos y mejorar la eficiencia operativa de nuestros clientes.">
-  <meta property="og:image" content="https://kobai.mx/assets/images/share/kobai-share.jpg">
+  <meta property="og:image" content="https://kobai.mx/assets/images/share/kobai-share.png">
   <meta property="og:url" content="https://kobai.mx/">
   <meta property="og:type" content="website">
 
   <!-- Favicons -->
-  <link rel="apple-touch-icon" sizes="57x57" href="assets/images/favicon/apple-icon-57x57.png">
-  <link rel="apple-touch-icon" sizes="60x60" href="assets/images/favicon/apple-icon-60x60.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="assets/images/favicon/apple-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="assets/images/favicon/apple-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="assets/images/favicon/apple-icon-114x114.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="assets/images/favicon/apple-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="assets/images/favicon/apple-icon-144x144.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="assets/images/favicon/apple-icon-152x152.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicon/apple-icon-180x180.png">
-  <link rel="icon" type="image/png" sizes="192x192"  href="assets/images/favicon/android-icon-192x192.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="96x96" href="assets/images/favicon/favicon-96x96.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon/favicon-16x16.png">
-  <link rel="manifest" href="assets/images/favicon/manifest.json">
-  <meta name="msapplication-TileColor" content="#ffffff">
-  <meta name="msapplication-TileImage" content="assets/images/favicon/ms-icon-144x144.png">
+  <link rel="icon" type="image/svg+xml" href="assets/images/favicon/favicon.svg">
+  <link rel="shortcut icon" href="assets/images/favicon/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicon/apple-touch-icon.png">
+  <link rel="manifest" href="assets/images/favicon/site.webmanifest">
   <meta name="theme-color" content="#ffffff">
 
 
@@ -55,8 +44,8 @@
       <nav class="navbar navbar-expand-lg sticky-navbar">
         <div class="container">
           <a class="navbar-brand" href="index.html">
-            <img src="assets/images/logo/logo-light.svg" class="logo-light" alt="logo">
-            <img src="assets/images/logo/logo-dark.svg" class="logo-dark" alt="logo">
+            <img src="assets/images/logo/logo-light.png" class="logo-light" alt="logo">
+            <img src="assets/images/logo/logo-dark.png" class="logo-dark" alt="logo">
           </a>
           <button class="navbar-toggler" type="button">
             <span class="menu-lines"><span></span></span>
@@ -244,7 +233,7 @@
     <!-- ========================
         Services
     =========================== -->
-    <section id="servicios" class="services pb-90" style="background-color: #184191;">
+    <section id="servicios" class="services pb-90" style="background-color: #2e3480;">
       <div class="container">
         <div class="row heading heading-2 mb-40">
           <div class="col-sm-12 col-md-12 col-lg-12">
@@ -629,8 +618,16 @@
                 </div><!-- /.col-lg-12 -->
               </div><!-- /.row -->
               <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-8 offset-lg-2">
+                  <div class="form-privacy">
+                    <input type="checkbox" id="privacyConsent" required>
+                    <label for="privacyConsent">He leído y acepto el <a href="aviso-de-privacidad/" class="js-privacy-link">Aviso de Privacidad</a></label>
+                  </div>
+                </div><!-- /.col-lg-8 -->
+              </div><!-- /.row -->
+              <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
-                  <button type="submit" class="btn btn__secondary btn__hover3 btn__block">Enviar</button>
+                  <button type="submit" class="btn btn__secondary btn__hover3 btn__block" disabled>Enviar</button>
                 </div><!-- /.col-lg-12 -->
               </div><!-- /.row -->
             </form>
@@ -651,7 +648,7 @@
 
             <div class="col-sm-12 col-md-12 col-lg-4 footer__widget footer__widget-about">
               <div class="footer__widget-content">
-                <img src="assets/images/logo/logo-small.svg" alt="logo" class="footer-logo">
+                <img src="assets/images/logo/logo-small.png" alt="logo" class="footer-logo">
                 <!-- <p>KOBAI es una empresa especializada en soluciones de logística, compras y adquisiciones para medianas y grandes empresas. Optimizamos la cadena de suministro para reducir costos y mejorar la eficiencia operativa de nuestros clientes.</p> -->
                 <p>KOBAI es una empresa especializada en soluciones de logística, compras y adquisiciones para medianas y grandes empresas.</p>
               </div>
@@ -666,18 +663,25 @@
                     <li><a href="#servicios">Servicios</a></li>
                     <li><a href="#nosotros">Nosotros</a></li>
                     <li><a href="#contacto">Contacto</a></li>
+                    <li><a href="aviso-de-privacidad/">Aviso de Privacidad</a></li>
                   </ul>
                 </nav>
               </div><!-- /.footer-widget-content -->
             </div><!-- /.col-lg-2 -->
-            
+
             <div class="col-6 col-sm-6 col-md-3 col-lg-4 footer__widget footer__widget-nav">
-              <h6 class="footer__widget-title">Contactános</h6>
+              <h6 class="footer__widget-title">Contáctanos</h6>
               <div class="footer__widget-content">
                 <nav>
                   <ul class="list-unstyled">
-                    <!-- <li><p>Correo electrónico:</p></li> -->
                     <li><a href="mailto:contacto@kobai.mx">contacto@kobai.mx</a></li>
+                  </ul>
+                </nav>
+                <h6 class="footer__widget-title footer__widget-title--secondary">Horario</h6>
+                <nav>
+                  <ul class="list-unstyled">
+                    <li>Lunes a Viernes: 9:00 am - 6:00 pm</li>
+                    <li>Sábado: 9:00 am - 2:00 pm</li>
                   </ul>
                 </nav>
               </div><!-- /.footer-widget-content -->
@@ -712,9 +716,20 @@
     <button id="scrollTopBtn"><i class="fa fa-long-arrow-up"></i></button>
   </div><!-- /.wrapper -->
 
+  <!-- Privacy Modal -->
+  <div id="privacyModal" class="privacy-modal">
+    <div class="privacy-modal__overlay"></div>
+    <div class="privacy-modal__content">
+      <button type="button" class="privacy-modal__close" aria-label="Cerrar">&times;</button>
+      <h3>Aviso de Privacidad Simplificado</h3>
+      <p>KOBAI Y LOGÍSTICA, con domicilio en KOBAI Y LOGÍSTICA, es responsable del tratamiento de sus datos personales. Los datos personales que recabamos a través del formulario de contacto en nuestro sitio web, como su nombre, correo electrónico, número telefónico, mensaje y servicio de interés, serán utilizados exclusivamente para atender, dar seguimiento y responder a su solicitud de información, cotización o contacto, conforme al servicio seleccionado. Para conocer más sobre los términos y condiciones en que sus datos serán tratados, así como los mecanismos para ejercer sus derechos ARCO (Acceso, Rectificación, Cancelación u Oposición), puede consultar nuestro <a href="aviso-de-privacidad/">Aviso de Privacidad Integral</a>.</p>
+    </div>
+  </div>
+
   <script src="assets/js/jquery-3.3.1.min.js"></script>
   <script src="assets/js/plugins.js"></script>
   <script src="assets/js/main.js"></script>
+  <script src="assets/js/privacy.js"></script>
 </body>
 
 </html>

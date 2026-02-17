@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx --yes pdf-parse:*)",
+      "Bash(node -e:*)",
+      "Bash(npm install:*)"
+    ]
+  }
+}
